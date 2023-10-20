@@ -1,10 +1,7 @@
 ﻿# Catshop
 # CatShop Website
 
-This is a simple website project created using HTML and CSS, showcasing a fictional cat shop. The website features basic sections such as home, shop, contact, and a footer. It is designed to be responsive, providing a seamless experience across various devices.
- 
-#view the project here 
-#DEMO:"91d03680-a266-4cfa-a7b3-5862980fa218"
+This is a simple website project created using HTML and CSS, showcasing a fictional cat shop. The website features basic sections such as home, shop, contact, and a footer. It is designed to be responsive, providing a seamless experience across various devices
 
 ## Sections
 
