@@ -3,7 +3,7 @@
 
 This is a simple website project created using HTML and CSS, showcasing a fictional cat shop. The website features basic sections such as home, shop, contact, and a footer. It is designed to be responsive, providing a seamless experience across various devices
  # view the project 
-[DEMO] (cat-shopp.netlify.app)
+[DEMO](https://cat-shopp.netlify.app/)
 
 ## Sections
 
